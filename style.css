@@ -1,0 +1,17 @@
+.heading{
+    padding: 100px;
+}
+.heading h1{
+    text-align: center;
+}
+.feature img{
+    height: auto;
+    width: 100%;
+    object-fit: contain;
+}
+.signup p{
+    text-align: center;
+}
+.content p{
+    text-align: center;
+}
